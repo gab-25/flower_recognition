@@ -18,9 +18,10 @@ L'implementazione di un modello avanzato di Computer Vision per il riconosciment
 GreenTech Solutions Ltd. ha avviato un'iniziativa strategica per sviluppare un prototipo di modello di Computer Vision basato su intelligenza artificiale per il riconoscimento automatico dei fiori. Il dataset fornito include due categorie principali di fiori:
 - Daisy (Margherita): 529 immagini di train, 163 di validation, 77 di test.
 - Dandelion (Tarassaco): 746 immagini di train, 201 di validation, 105 di test.
-- Obiettivo del Progetto: Il principale obiettivo è sviluppare un modello altamente accurato e robusto, capace di classificare automaticamente i fiori con il miglior F1-score (macro) possibile sul dataset di test. L'uso di tecniche avanzate come il transfer learning e le data augmentations con la libreria timm di PyTorch è fortemente consigliato per ottimizzare le prestazioni del modello.
 
-Approccio Raccomandato: Si richiede la configurazione e l'addestramento di una rete neurale profonda utilizzando PyTorch, con una documentazione dettagliata delle metodologie adottate e delle decisioni prese durante il processo di sviluppo. È essenziale valutare attentamente i vantaggi e le sfide del modello, inclusa la sua capacità di adattarsi a variazioni nelle condizioni ambientali e di produrre risultati coerenti e affidabili in scenari reali.
+**Obiettivo del Progetto:** Il principale obiettivo è sviluppare un modello altamente accurato e robusto, capace di classificare automaticamente i fiori con il miglior F1-score (macro) possibile sul dataset di test. L'uso di tecniche avanzate come il transfer learning e le data augmentations con la libreria timm di PyTorch è fortemente consigliato per ottimizzare le prestazioni del modello.
+
+**Approccio Raccomandato:** Si richiede la configurazione e l'addestramento di una rete neurale profonda utilizzando PyTorch, con una documentazione dettagliata delle metodologie adottate e delle decisioni prese durante il processo di sviluppo. È essenziale valutare attentamente i vantaggi e le sfide del modello, inclusa la sua capacità di adattarsi a variazioni nelle condizioni ambientali e di produrre risultati coerenti e affidabili in scenari reali.
 
 L'integrazione di questa soluzione innovativa permetterà a GreenTech Solutions Ltd. di consolidare ulteriormente la sua posizione nel mercato agricolo, offrendo soluzioni avanzate che migliorano l'efficienza operativa, promuovono la sostenibilità e soddisfano le crescenti esigenze dei clienti nel settore agricolo moderno.
 
